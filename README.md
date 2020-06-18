@@ -38,7 +38,7 @@ On April 15, 1912, the largest passenger liner ever made collided with an iceber
 [![Titanic](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/Titanic.gif)](https://www.youtube.com/watch?v=tEEgAwI_MXc "Titanic")
 
 
-##3 Data Features
+#### Data Features
 
 The [dataset1](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/train%20(5).csv) has the following features:
 The titanic.csv file contains data for 887 of the real Titanic passengers. Each row represents one person. The columns describe different attributes about the person including:
@@ -58,7 +58,7 @@ The "spam" concept is diverse: advertisements for products/web sites, make money
 The dataset is  collection of spam e-mails came from our postmaster and individuals who had filed spam. The collection of non-spam e-mails came from filed work and personal e-mails
 
 
-##3 Data Features
+#### Data Features
 
 The [dataset2](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/spambase.zip) has the following features:
 
