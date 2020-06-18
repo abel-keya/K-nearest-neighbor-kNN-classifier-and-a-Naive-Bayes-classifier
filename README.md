@@ -1,5 +1,6 @@
-# week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier
+# Wek9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier
 This project involves Implementation of  a K-nearest neighbor (kNN) classifier  and a Naive Bayes classifier. After conducting the experiments the resulting metrics are  calculated 
+
 # Problem statement:
 
 **To conduct the experiments on the two datasets by  Building a K-nearest neighbor (kNN) model classifier  and a Naive Bayes model classifier calculate the resulting metrics.**
@@ -16,18 +17,19 @@ This project involves Implementation of  a K-nearest neighbor (kNN) classifier  
 * It has no  label for the test, use the train set to create train and test data (i.e. splitting further), 
 * perform K-nearest neighbor  classification.
 
-### Solution 2: Implementantion of the of the Naive Bayes Classifier
+### Solution 2: Implementantion of the Naive Bayes Classifier
 * perform classification of the testing set samples using the Naive Bayes Classifier.
 * Compute the accuracy (percentage of correct classification).
 * Report the confusion matrix of each classifier.
 * Repeat step 2 to step 4 twice, each time splitting the datasets differently i.e. 70-30, 60-40, then note the outcomes of the modeling.
 
 
-#### Suggest and apply at least one of the optimization techniques.**
+#### Suggest and apply at least one of the optimization techniques.
 
-#### Provide further recommendations to improve both classifiers.**
+#### Provide further recommendations to improve both classifiers.
 
-# Context
+
+# Context 
 
 ## Dataset 1
 
@@ -36,7 +38,8 @@ On April 15, 1912, the largest passenger liner ever made collided with an iceber
 [![Titanic](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/Titanic.gif)](https://www.youtube.com/watch?v=tEEgAwI_MXc "Titanic")
 
 
-# Data Features
+##3 Data Features
+
 The [dataset1](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/train%20(5).csv) has the following features:
 The titanic.csv file contains data for 887 of the real Titanic passengers. Each row represents one person. The columns describe different attributes about the person including:
 
@@ -55,7 +58,7 @@ The "spam" concept is diverse: advertisements for products/web sites, make money
 The dataset is  collection of spam e-mails came from our postmaster and individuals who had filed spam. The collection of non-spam e-mails came from filed work and personal e-mails
 
 
-# Data Features
+##3 Data Features
 
 The [dataset2](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/spambase.zip) has the following features:
 
