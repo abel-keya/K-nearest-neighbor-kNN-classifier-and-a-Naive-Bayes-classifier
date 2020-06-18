@@ -3,7 +3,7 @@ This project involves Implementation of  a K-nearest neighbor (kNN) classifier  
 
 # Problem statement:
 
-**To conduct the experiments on the two datasets by  Building a K-nearest neighbor (kNN) model classifier  and a Naive Bayes model classifier calculate the resulting metrics.**
+**To conduct the experiments on the two datasets by  Building a K-nearest neighbor (kNN) model classifier  and a Naive Bayes model classifier then  calculate the resulting metrics.**
 
  ![classes](lazy.gif)
  ![classification](anim.gif) 
