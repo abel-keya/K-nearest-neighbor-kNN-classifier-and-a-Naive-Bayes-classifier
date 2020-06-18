@@ -1,12 +1,11 @@
 # week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier
 This project involves Implementation of  a K-nearest neighbor (kNN) classifier  and a Naive Bayes classifier. After conducting the experiments the resulting metrics are  calculated 
+# Problem statement:
+
+conduct the experiments on the two datasets by  Building a K-nearest neighbor (kNN) model classifier  and a Naive Bayes model classifier calculate the resulting metrics
 
  ![classes](lazy.gif)
  ![classification](anim.gif) 
-
-**Problem statement:**  
-
-conduct the experiments on the two datasets by  Building a K-nearest neighbor (kNN) model classifier  and a Naive Bayes model classifier calculate the resulting metrics
 
   
   
@@ -18,7 +17,7 @@ conduct the experiments on the two datasets by  Building a K-nearest neighbor (k
 
 On April 15, 1912, the largest passenger liner ever made collided with an iceberg during her maiden voyage. When the Titanic sank it killed 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships. One of the reasons that the shipwreck resulted in such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others.
 
-![Watch](https://www.youtube.com/watch?time_continue=67&v=3lyiZMeTKIo&feature=emb_logo)
+![Watch](https://www.youtube.com/watch?v=tEEgAwI_MXc)
 
 # Data Features
 The [dataset1](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/train%20(5).csv) has the following features:
