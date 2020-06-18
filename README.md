@@ -38,7 +38,14 @@ On April 15, 1912, the largest passenger liner ever made collided with an iceber
 
 # Data Features
 The [dataset1](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/train%20(5).csv) has the following features:
-The titanic.csv file contains data for 887 of the real Titanic passengers. Each row represents one person. The columns describe different attributes about the person including whether they survived (S), their age (A), their passenger-class (C), their sex (G) and the fare they paid (X).
+The titanic.csv file contains data for 887 of the real Titanic passengers. Each row represents one person. The columns describe different attributes about the person including:
+
+* survived
+* Age
+* passenger-class
+* sex
+* fare they paid (X)
+* Embarked
 
 
 ## Dataset 2
