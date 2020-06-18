@@ -47,7 +47,7 @@ The titanic.csv file contains data for 887 of the real Titanic passengers. Each 
 * Age
 * passenger-class
 * sex
-* fare they paid (X)
+* fare
 * Embarked
 
 
