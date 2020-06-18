@@ -31,11 +31,10 @@ The [dataset2](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbo
    
 ### Hypothyroidism: (Underactive Thyroid)-Too Little Thyroid Hormone
 Hypothyroidism is a condition in which the thyroid gland is not able to produce enough thyroid hormone. Since the main purpose of thyroid hormone is to "run the body's metabolism," it is understandable that people with this condition will have symptoms associated with a slow metabolism.
- </p>
-  <p align="center">
+
  ![classes](lazy.gif)
  ![classification](anim.gif) 
- </p>
+ 
 
    
    Clinical procedure used for obtaining data:
