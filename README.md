@@ -1,6 +1,8 @@
 # week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier
 This project involves Implementation of  a K-nearest neighbor (kNN) classifier  and a Naive Bayes classifier. After conducting the experiments the resulting metrics are  calculated 
 
+ ![classes](lazy.gif)
+ ![classification](anim.gif) 
 
 **Problem statement:**  
 
@@ -10,38 +12,29 @@ conduct the experiments on the two datasets by  Building a K-nearest neighbor (k
   
 # Description
 
+# Context
+
 ### Solution 1: 
-</p>
+
+On April 15, 1912, the largest passenger liner ever made collided with an iceberg during her maiden voyage. When the Titanic sank it killed 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships. One of the reasons that the shipwreck resulted in such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others.
+![classes](https://www.youtube.com/watch?time_continue=67&v=3lyiZMeTKIo&feature=emb_logo)
+
+# Data Features
+The [dataset1](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/train%20(5).csv) has the following features:
+The titanic.csv file contains data for 887 of the real Titanic passengers. Each row represents one person. The columns describe different attributes about the person including whether they survived (S), their age (A), their passenger-class (C), their sex (G) and the fare they paid (X).
 
 
 ### Solution 2: 
 
+The "spam" concept is diverse: advertisements for products/web sites, make money fast schemes, chain letters, pornography...
+
+The dataset is  collection of spam e-mails came from our postmaster and individuals who had filed spam. The collection of non-spam e-mails came from filed work and personal e-mails
+
 
 # Data Features
 
-The [dataset1](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/train%20(5).csv) has the following features:
-
 The [dataset2](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/spambase.zip) has the following features:
 
-
-
-# Context
-
-<p>
-   
-### Hypothyroidism: (Underactive Thyroid)-Too Little Thyroid Hormone
-Hypothyroidism is a condition in which the thyroid gland is not able to produce enough thyroid hormone. Since the main purpose of thyroid hormone is to "run the body's metabolism," it is understandable that people with this condition will have symptoms associated with a slow metabolism.
-
- ![classes](lazy.gif)
- ![classification](anim.gif) 
- 
-
-   
-   Clinical procedure used for obtaining data:
- 
- (https://www.youtube.com/watch?v=iIO09kGSRkI)
-  
- (https://www.youtube.com/watch?v=XR4nOMp_bGA)
 
 # Requirements
 * Anaconda installation
