@@ -52,6 +52,13 @@ The dataset is  collection of spam e-mails came from our postmaster and individu
 
 The [dataset2](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/spambase.zip) has the following features:
 
+* Data Set Characteristics: Multivariate
+* Number of Instances:4601
+* Industry source: Computing
+* Attribute Characteristics:Integer, Real
+* Number of Attributes:57
+* Missing Values?:Yes
+* Number of Web Hits:510321
 
 # Requirements
 * Anaconda installation
