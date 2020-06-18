@@ -17,7 +17,8 @@ conduct the experiments on the two datasets by  Building a K-nearest neighbor (k
 ### Solution 1: 
 
 On April 15, 1912, the largest passenger liner ever made collided with an iceberg during her maiden voyage. When the Titanic sank it killed 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships. One of the reasons that the shipwreck resulted in such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others.
-![classes](https://www.youtube.com/watch?time_continue=67&v=3lyiZMeTKIo&feature=emb_logo)
+
+![Watch](https://www.youtube.com/watch?time_continue=67&v=3lyiZMeTKIo&feature=emb_logo)
 
 # Data Features
 The [dataset1](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/train%20(5).csv) has the following features:
@@ -48,7 +49,7 @@ The [dataset2](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbo
    
  <p align="center"> 
    
-  <img   src="tech3.jpg" width="550" height="300"  alt="DS" title="Requirements" />
+  <img   src="https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/tech3.jpg" width="550" height="300"  alt="DS" title="Requirements" />
  
 </p>
 
