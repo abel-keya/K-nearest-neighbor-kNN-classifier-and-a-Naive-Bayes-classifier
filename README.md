@@ -20,7 +20,10 @@ conduct the experiments on the two datasets by  Building a K-nearest neighbor (k
 # Data Features
 Dataset
 
-The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/hypothyroid.csv) has the following features:
+The [dataset1](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/train%20(5).csv() has the following features:
+
+The [dataset2](https://github.com/abel-keya/week9_IP_Abel_Keya_K-nearest-neighbor-kNN-classifier-and-a-Naive-Bayes-classifier/blob/master/train%20(5).csv() has the following features:
+)
 
 **Dataset Columns**
 * Age, Sex, on_thyroxine, query_on_thyroxine,on_antithyroid_medicationthyroid_surgery,query_hypothyroid,query_hyperthyroid,pregnant,sick,tumor,lithium,goitre,TSH_measured,TSH,T3_measured,T3,TT4_measured,TT4
@@ -44,7 +47,7 @@ Hypothyroidism is a condition in which the thyroid gland is not able to produce 
   <p align="center">
 
  ![classification](anim.gif) 
- ![Thyroid](anima1.gif) 
+ ![classes](lazy.gif) 
 
    
    Clinical procedure used for obtaining data:
