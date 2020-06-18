@@ -11,18 +11,21 @@ This project involves Implementation of  a K-nearest neighbor (kNN) classifier  
 # Description
 
 ### Solution 1: Implementantion of the K-Nearest Neighboor algorithm on Titanic dataset
-Randomly partition each dataset into two parts i.e 80 - 20  sets.
-For dataset 1, because we don't have the label for the test set, we will use the train set to create train and test data (i.e. splitting further), then perform K-nearest neighbor classification.
+
+* Randomly partition each dataset into two parts i.e 80 - 20  sets.
+* It has no  label for the test, use the train set to create train and test data (i.e. splitting further), 
+* perform K-nearest neighbor  classification.
 
 ### Solution 2: Implementantion of the of the Naive Bayes Classifier
-For dataset 2, perform classification of the testing set samples using the Naive Bayes Classifier.
-Compute the accuracy (percentage of correct classification).
-Report the confusion matrix of each classifier.
-Repeat step 2 to step 4 twice, each time splitting the datasets differently i.e. 70-30, 60-40, then note the outcomes of your modeling.
+* perform classification of the testing set samples using the Naive Bayes Classifier.
+* Compute the accuracy (percentage of correct classification).
+* Report the confusion matrix of each classifier.
+* Repeat step 2 to step 4 twice, each time splitting the datasets differently i.e. 70-30, 60-40, then note the outcomes of the modeling.
 
 
-**Suggest and apply at least one of the optimization techniques.**
-**Provide further recommendations to improve both classifiers.**
+#### Suggest and apply at least one of the optimization techniques.**
+
+#### Provide further recommendations to improve both classifiers.**
 
 # Context
 
